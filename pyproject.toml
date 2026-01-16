@@ -1,0 +1,21 @@
+[project]
+name = "eventregistryapi"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "dotenv>=0.9.9",
+    "folium>=0.20.0",
+    "geopandas>=1.1.2",
+    "httpx>=0.28.1",
+    "jupyterlab>=4.5.2",
+    "matplotlib>=3.10.8",
+    "numpy>=2.4.1",
+    "pandas>=2.3.3",
+    "psycopg2>=2.9.11",
+    "psycopg2-binary>=2.9.11",
+    "python-dotenv>=1.2.1",
+    "seaborn>=0.13.2",
+    "supabase>=2.16.0",
+]
